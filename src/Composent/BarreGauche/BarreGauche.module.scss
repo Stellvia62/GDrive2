@@ -1,0 +1,27 @@
+.body{
+    width: 25%;
+    height: 100%;
+    background-color: #2262c6;
+    border-top-right-radius: 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.lien{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    img{
+        height: 40px;
+    }
+    p{
+        color: white;
+        font-size: 20px;
+        margin-left: 15px;
+    }
+}
